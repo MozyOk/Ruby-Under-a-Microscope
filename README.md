@@ -9,5 +9,5 @@ END
 ```
 のように囲んで、
 
-`RubyVM::InstructionSequence.compile(code).disasm`　 
+`RubyVM::InstructionSequence.compile(code).disasm`  
 とすることで、表示が可能
